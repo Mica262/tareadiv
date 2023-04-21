@@ -1,0 +1,43 @@
+h2 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    line-height: 1.5;
+
+
+}
+
+.caja1 {
+    background-color: cornflowerblue;
+}
+
+
+.caja2 {
+    background-color: #aff6cf;
+background-image: linear-gradient(315deg, #aff6cf 0%, #9f98e8 74%);
+}
+
+
+.caja3 {
+    background-image: url(../img/patitas.jpg);
+    background-size: contain;
+}
+.caja3 p {
+    background-color: burlywood;
+}
+
+
+
+.caja4 {
+    background-image: url(../img/ojos-gato.jpg);
+    background-size: contain;
+}
+.caja4 p {
+    color: bisque;
+}
+.caja4 h2 {
+    color: blanchedalmond;
+}
